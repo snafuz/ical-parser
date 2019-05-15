@@ -1,4 +1,4 @@
-# ICAL Calendar file converter
+# ICAL Calendar file parser
 
 ## Introduction
 
@@ -10,7 +10,7 @@ Convert calendar .ical file into csv files filtering all the events in a secifie
 * ***The script requires python 3.6 or above***
 
 ```bash
-    $ git clone https://github.com/snafuz/oci-tools.git
+    $ git clone https://github.com/snafuz/ical-parser.git
     $ cd ical-parser
 
     $ pip3 install virtualenv
