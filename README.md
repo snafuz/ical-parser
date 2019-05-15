@@ -1,8 +1,8 @@
-# ICAL Calendar file parser
+# iCalendar file parser
 
 ## Introduction
 
-Convert calendar .ical file into csv files filtering all the events in a secified intervall of days.
+Convert calendar .ics file into .csv files filtering all the events in a specified intervall of days.
 
 ## Installation
 
